@@ -9,7 +9,7 @@ int main()
     int num1, contpar = 0, contimpar = 0, som_impar = 0;
     float a = 0;
 
-    for (a = 0; a < 20; a++)
+    for (a = 0; a < 1000; a++)
     {
 
         printf("Digite o número:");
