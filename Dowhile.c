@@ -21,7 +21,7 @@ int main()
             i++;
         }
 
-    } while (i < 20);
+    } while (i < 1000);
 
     mediaImpar = somImpar / i;
 
