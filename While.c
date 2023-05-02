@@ -10,12 +10,10 @@ int main()
         scanf("%d", &num);
         if (num % 2 == 0)
         {
-            // se o número é par, incrementa o contador de pares
             count_pares++;
         }
         else
         {
-            // se o número é ímpar, incrementa o contador de ímpares e a soma dos ímpares
             count_impares++;
             sum_impares += num;
         }
